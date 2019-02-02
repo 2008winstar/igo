@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 /*
 basic data types:
 Integers:
